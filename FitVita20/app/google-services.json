@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "627013037539",
+    "project_id": "fitvita21",
+    "storage_bucket": "fitvita21.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:627013037539:android:91cccb2d7734b62429c4d6",
+        "android_client_info": {
+          "package_name": "com.example.fitvita20"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "627013037539-7p15ke6ai3v9mpe6jk3hcnagh1dd6onh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAt5F98Ydx0tgjin5f2LXTyUj3ErPjipeM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "627013037539-7p15ke6ai3v9mpe6jk3hcnagh1dd6onh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
